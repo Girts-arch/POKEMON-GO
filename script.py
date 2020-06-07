@@ -205,7 +205,7 @@ jeff.printCurrPoke() #print current pokemon to see updated evolved pokemon
 jeff.switchPoke("Swampert") 
 jeff.printCurrPoke() #print current pokemon after switching 
 
-#same for gary
+#same for bob
 bob.printCurrPoke() 
 bob.switchPoke("Onyx")
 bob.printCurrPoke()
