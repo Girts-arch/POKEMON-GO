@@ -193,7 +193,7 @@ print("Bob's current Pokemon")
 for poke in bob.pokeTeam:
     poke.printStats()
 
-#Jeff attacks gary who then attacks back, alleo uses a potion
+#Jeff attacks gary who then attacks back, jeff uses a potion
 jeff.attackOther(bob)
 bob.usePotion() #He has 0 so he wont be able to!
 bob.attackOther(jeff)
